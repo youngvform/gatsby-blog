@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `The new blog`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `vform's log`,
+    description: `vform's log made by gatsby. github : https://github.com/youngvform`,
+    author: `@vform`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
