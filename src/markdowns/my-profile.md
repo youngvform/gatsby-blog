@@ -20,5 +20,5 @@ React, Typescript, express, Next.js, Redux는 익숙합니다.
 
 > [trip-beer](https://frontend.vformu.now.sh) 에서는 Reqct, Next.js, GraphQL, Apollo Client가 사용되었습니다. 
 
-> [Spring Boot WebService](ec2-54-180-117-114.ap-northeast-2.compute.amazonaws.com) 에서는 Spring Boot, AWS(EC2, S3, Code Deploy), Goole OAuth, Naver OAuth가 사용되었습니다.
+> [Spring Boot WebService](http://ec2-54-180-117-114.ap-northeast-2.compute.amazonaws.com) 에서는 Spring Boot, AWS(EC2, S3, Code Deploy), Goole OAuth, Naver OAuth가 사용되었습니다.
 
