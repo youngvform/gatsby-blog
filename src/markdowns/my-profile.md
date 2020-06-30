@@ -14,7 +14,7 @@ React, Typescript, express, Next.js, Redux는 익숙합니다.
 
 
 공개된 소스코드는 [github](https://github.com/youngvform/) 에 올라가 있습니다.
- 
+(아래 vshop과 trip-beer는 무료 호스팅이라 기동되는데 시간이 필요합니다. 천천히 기다려주세요.)
 
 > [vshop](https://vshop-frontend.herokuapp.com/) 에서는 React, Redux, Redux Saga, Express가 사용되었습니다.     
 
