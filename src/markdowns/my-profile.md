@@ -18,7 +18,7 @@ React, Typescript, express, Next.js, Redux를 사용하는 것에는 조금 더 
 (아래 vshop과 trip-beer는 무료 호스팅이라 기동되는데 시간이 필요합니다. 천천히 기다려주세요.)
 
 > [vshop](https://vshop-frontend.herokuapp.com/)      
-> ![](.my-profile_images/vshop-main.png)
+> ![](src/images/vshop-main.png)
 > vshop은 데모 의류 쇼핑몰로 자켓, 신발, 모자 등 다양한 의류를 판매하는 사이트입니다.   
 > 결제도 가능하지만 개발용이라 실제로 청구가 되지는 않아요.    
 > firebase를 통해서 구글 로그인 연동을 했습니다.
@@ -29,7 +29,7 @@ React, Typescript, express, Next.js, Redux를 사용하는 것에는 조금 더 
 > Udemy의 React 강의를 통해서 프로젝트를 완성할 수 있었어요.
 
 > [trip-beer](https://frontend.vformu.now.sh) 
-> ![](.my-profile_images/trip-beer.png)
+> ![](src/images/trip-beer.png)
 > trip-beer 프로젝트도 의류 쇼핑몰입니다.   
 > vshop과 다른 점은 화면 상단에 진행률을 표시해주는 프로그레스바 기능이 있고   
 > 직접 물건을 올리는 기능과 주문 내역, 자동완성 같이 디테일한 기능이 가능해요.   
@@ -43,7 +43,7 @@ React, Typescript, express, Next.js, Redux를 사용하는 것에는 조금 더 
 > 이 강의가 곧 리뉴얼 되면 다시 만들어볼 생각이에요 그래서 이번엔 좀 더 깊게 GraphQL를 배울꺼에요!
 
 > [Spring Boot WebService](http://ec2-54-180-117-114.ap-northeast-2.compute.amazonaws.com) 
-> ![](.my-profile_images/springboot-web.png)
+> ![](src/images/springboot-web.png)
 > Spring Boot WebService 프로젝트는 Spring boot를 통해서 만든 게시판이에요   
 > 이 프로젝트에서는 네이버와 구글 OAuth를 사용해서 로그인 연동을 했어요.   
 > 게시판과 관련된 CRUD는 JPA를 사용해서 구현했어요   
