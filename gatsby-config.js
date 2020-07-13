@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-blog",
   siteMetadata: {
     title: `vform's log`,
     description: `vform's log made by gatsby. github : https://github.com/youngvform`,
