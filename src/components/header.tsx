@@ -11,7 +11,7 @@ const Container = styled.article`
   align-items: baseline;
   margin: 0 auto;
   max-width: 960px;
-  padding: 1.45rem 1.0875rem;
+  //padding: 1.45rem 1.0875rem;
 `
 
 const SiteTitle = styled.h1`
