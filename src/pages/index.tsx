@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 interface Props {
@@ -47,18 +46,18 @@ const Title = styled.h2`
 const IndexPage: React.FC<Props> = ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <div>
+    <main>
       {data.allMarkdownRemark.edges.map(({ node }: Edge) => (
-        <div key={node.id}>
+        <section key={node.id}>
           <PostLink to={node.fields.route}>
             <Title>
               {node.frontmatter.title} - {node.frontmatter.date}
             </Title>
           </PostLink>
           <p>{node.excerpt}</p>
-        </div>
+        </section>
       ))}
-    </div>
+    </main>
   </Layout>
 )
 

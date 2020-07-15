@@ -1,7 +1,6 @@
 ---
-title: "My Profile"
+title: "My Study"
 date: "2020-06-10"
-featuredImage: vshop-main.png
 ---
 
 ### Stack
@@ -19,7 +18,7 @@ React, Typescript, express, Next.js, Redux를 사용하는 것에는 조금 더 
 
 #### [vshop](https://vshop-frontend.herokuapp.com/)
 
-[![](./my-profile-image/vshop-main.png "이미지를 누르면 이동합니다.")](https://vshop-frontend.herokuapp.com/)
+[![](./my-study-image/vshop-main.png "이미지를 누르면 이동합니다.")](https://vshop-frontend.herokuapp.com/)
 
 > vshop은 데모 의류 쇼핑몰로 자켓, 신발, 모자 등 다양한 의류를 판매하는 사이트입니다.  
 > 결제도 가능하지만 개발용이라 실제로 청구가 되지는 않아요.  
@@ -32,7 +31,7 @@ React, Typescript, express, Next.js, Redux를 사용하는 것에는 조금 더 
 
 #### [trip-beer](https://frontend.vformu.now.sh)
 
-[![](./my-profile-image/trip-beer.png "이미지를 누르면 이동합니다.")](https://frontend.vformu.now.sh)
+[![](./my-study-image/trip-beer.png "이미지를 누르면 이동합니다.")](https://frontend.vformu.now.sh)
 
 > trip-beer 프로젝트도 의류 쇼핑몰입니다.  
 > vshop과 다른 점은 화면 상단에 진행률을 표시해주는 프로그레스바 기능이 있고  
@@ -48,7 +47,7 @@ React, Typescript, express, Next.js, Redux를 사용하는 것에는 조금 더 
 
 #### [Spring Boot WebService](http://ec2-54-180-117-114.ap-northeast-2.compute.amazonaws.com)
 
-[![](./my-profile-image/springboot-web.png "이미지를 누르면 이동합니다.")](http://ec2-54-180-117-114.ap-northeast-2.compute.amazonaws.com)
+[![](./my-study-image/springboot-web.png "이미지를 누르면 이동합니다.")](http://ec2-54-180-117-114.ap-northeast-2.compute.amazonaws.com)
 
 > Spring Boot WebService 프로젝트는 Spring boot를 통해서 만든 게시판이에요  
 > 이 프로젝트에서는 네이버와 구글 OAuth를 사용해서 로그인 연동을 했어요.  

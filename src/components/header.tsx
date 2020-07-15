@@ -1,10 +1,28 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
 import React from "react"
+import { Link } from "gatsby"
+import styled from "styled-components"
 
 interface Props {
   siteTitle?: string
 }
+
+const Container = styled.article`
+  display: flex;
+  align-items: baseline;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+`
+
+const SiteTitle = styled.h1`
+  flex: 1;
+  margin: 0;
+`
+
+const WhiteLink = styled(Link)`
+  color: white;
+  text-decoration: none;
+`
 
 const Header = ({ siteTitle = `` }: Props) => (
   <header
@@ -13,25 +31,14 @@ const Header = ({ siteTitle = `` }: Props) => (
       marginBottom: `1.45rem`,
     }}
   >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
+    <Container>
+      <SiteTitle>
+        <WhiteLink to="/">{siteTitle}</WhiteLink>
+      </SiteTitle>
+      <h3>
+        <WhiteLink to="/profile">profile</WhiteLink>
+      </h3>
+    </Container>
   </header>
 )
 
