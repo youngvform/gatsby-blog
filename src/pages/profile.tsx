@@ -43,8 +43,8 @@ const Project = styled.div`
 `
 
 const ProjectImage = styled.img`
-  width: 300px;
-  height: 420px;
+  width: 340px;
+  height: 460px;
   margin-right: 10px;
 `
 
