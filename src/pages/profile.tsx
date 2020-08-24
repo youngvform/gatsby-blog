@@ -141,7 +141,7 @@ const ProfilePage = (props: PageProps) => (
     <Container>
       <Header>
         <h3>Frontend Engineer @Spectra</h3>
-        <p>2016.12 ~ </p>
+        <p>2016.12 ~ 2020.09</p>
       </Header>
       <hr />
       <Content>
